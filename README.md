@@ -7,3 +7,5 @@ I enlarged the characters from the original code to better fill the display wind
 +5V Power can be picked up from connector 3 of the display board also.
 
 I've 3D printed some windows to hide the fact that the displays are about 1mm too small for the MKS-30 windows. These are not shown.
+
+https://youtu.be/2-Iy85YFpUE
